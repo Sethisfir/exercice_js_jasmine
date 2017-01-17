@@ -22,7 +22,7 @@ var majeur = function(age) {
     if (age >= 18)  {                                    //comparaison age et 18//
         var reponse = "majeur"                           //si age >= que 18 alors donner "majeur" à la var reponse//
     }else if (age <=18){								 //conparaison age et 18//
-        var reponse = "mineur"                           //sinon lui donner "mineur"//
+        var reponse = "mineur"                           //sinon lui donner "mineur" //
     }else{												 //si pas un nombre, ne rien renvoyer//
 
     }                                            
